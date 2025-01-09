@@ -1,2 +1,2 @@
-# Hollywood's-Profitable_Dashboard
+# Hollywood's_ProfitableStories_Dashboard
 Power Bi Dashboard
